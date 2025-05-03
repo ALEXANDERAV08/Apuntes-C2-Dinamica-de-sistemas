@@ -164,6 +164,12 @@ $$B=\frac{1}{5}$$
 $$D=\frac{20}{5} = 4$$
 $$A = 1$$
 
+$$X(s) = \frac{1}{s} + \frac{\frac{1}{5}s + 4}{2s^2 +2s +1}$$
+
+Ahora aplicamos la transformada inversa de Laplaceen cada termino:
+
+
+
 ### 📚 Ejercicio 2:
 
 Determinar la función en el dominio del tiempo de F(s):
